@@ -3,7 +3,7 @@
 
 <!-- Animated typing intro (replaces the old GIF) -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F80000&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh;Oracle+APEX+%26+PL%2FSQL+Developer;Building+low-code+business+applications;Fun+fact%3A+I+can+sing+really+well+%F0%9F%8E%A4" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F80000&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh;Oracle+APEX+%26+PL%2FSQL+Developer;Building+low-code+business+applications;" alt="Typing intro" />
 </h3>
 
 <p align="center">
