@@ -19,7 +19,6 @@ I'm an **Oracle APEX developer from India** who builds data-driven web applicati
 - 🔭 Building applications with **Oracle APEX** and **PL/SQL**
 - 💼 Software Specialist at **Eastern Software Systems Africa Ltd.**
 - 🌱 Always learning: APEX best practices, REST APIs and performance tuning
-- 🎤 Fun fact: **I can sing really well**
 
 ---
 
