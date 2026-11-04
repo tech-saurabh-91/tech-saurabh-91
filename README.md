@@ -1,69 +1,14 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F80000,100:312D2A&height=200&section=header&text=Saurabh%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Oracle%20APEX%20Developer&descSize=20&descAlignY=58" width="100%" alt="Saurabh Singh - Oracle APEX Developer" />
+<!-- HOW TO EDIT (sab kuch text hai, koi image file nahi): 1. Banner -> top ke URL me text=Saurabh%20Singh aur desc=... badlo (%20 = space) 2. Typing line -> lines=... me ; se alag karke apni lines likho (+ = space) 3. Skills -> kisi badge ka naam badlo ya poori line delete/copy karo 4. Colors -> hex code (jaise 22d3ee, 8b5cf6, C74634) badlo --> <!-- ============ 1. BANNER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:040916,50:1e3a8a,100:8b5cf6&text=Saurabh%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Oracle%20APEX%20Developer%20%7C%20PL%2FSQL%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Saurabh Singh - Oracle APEX Developer" /> </p> <!-- ============ 2. TYPING LINE ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh;Building+scalable%2C+data-driven+business+applications;ERP+Modules+%7C+KRA+TIMS+%7C+M-Pesa+%7C+REST+APIs;Oracle+APEX+Cloud+Developer+Professional;Based+in+Nairobi%2C+Kenya" alt="Typing intro" /> </p> <!-- ============ 3. TOP BADGES ============ --> <p align="center"> <img src="https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" /> <img src="https://img.shields.io/badge/Oracle_Database-0A1440?style=for-the-badge&logo=oracle&logoColor=22D3EE" alt="Oracle Database" /> <img src="https://img.shields.io/badge/PL%2FSQL-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" /> <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Certified-Oracle_APEX_Cloud_Developer_Professional-22D3EE?style=for-the-badge&labelColor=0A1440&logo=oracle&logoColor=white" alt="Certified Oracle APEX Cloud Developer Professional" /> </p> <br/> <!-- ============ 4. ABOUT + TECH STACK (2 columns) ============ --> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
+👤 About Me
+🧠 Oracle APEX developer from India, based in Nairobi, Kenya
+🏗️ I build enterprise ERP systems on Oracle Database
+🔁 I own modules end-to-end: requirements, data model, PL/SQL logic, UI and go-live
+💼 Software Specialist at Eastern Software Systems Africa Ltd.
+🏅 Certified Oracle APEX Cloud Developer Professional
+🎤 Fun fact: I can sing really well
+</td> <td width="50%" valign="top">
+🛠️ Tech Stack
 
-<!-- Animated typing intro (replaces the old GIF) -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F80000&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh;Oracle+APEX+%26+PL%2FSQL+Developer;Building+low-code+business+applications;" alt="Typing intro" />
-</h3>
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tech-saurabh-91&label=Profile%20views&color=F80000&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Oracle APEX developer from India** who builds data-driven web applications on the Oracle Database. I enjoy turning business requirements into clean, fast and maintainable low-code solutions.
-
-- 🔭 Building applications with **Oracle APEX** and **PL/SQL**
-- 💼 Software Specialist at **Eastern Software Systems Africa Ltd.**
-- 🌱 Always learning: APEX best practices, REST APIs and performance tuning
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
-  <img src="https://img.shields.io/badge/Oracle%20Database-312D2A?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Database" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/ORDS%20%2F%20REST-312D2A?style=for-the-badge&logo=fastapi&logoColor=white" alt="ORDS and REST APIs" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-## 🚀 What I Work On
-
-| Area | Details |
-|------|---------|
-| **APEX Applications** | Interactive Reports and Grids, Forms, Dashboards, Charts |
-| **Database Development** | PL/SQL packages, procedures, triggers, views, query tuning |
-| **Integrations** | REST services with ORDS, web service calls, JSON handling |
-| **UI / UX** | Theme Roller, Universal Theme, custom CSS and JavaScript |
-
----
-
-<!--
-## 📌 Featured Projects
-Uncomment this section and add your best APEX projects:
-
-- **[Project Name](https://github.com/tech-saurabh-91/repo-name)**: one-line description of what it does.
-- **[Project Name](https://github.com/tech-saurabh-91/repo-name)**: one-line description of what it does.
--->
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/saurabh-singh-82782023b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:saurabh.data.91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.instagram.com/__thakursaurabh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312D2A,100:F80000&height=100&section=footer" width="100%" alt="footer" />
+</td> </tr> </table> <!-- ============ 5. WHAT I BUILD ============ --> <h2 align="center">🚀 What I Build</h2> <table align="center" width="100%"> <tr align="center"> <td width="25%"><h3>🧩<br/>ERP Modules</h3></td> <td width="25%"><h3>🗄️<br/>Database &amp; PL/SQL</h3></td> <td width="25%"><h3>🔌<br/>API Integrations</h3></td> <td width="25%"><h3>🎨<br/>UI / UX</h3></td> </tr> <tr align="center" valign="top"> <td>Production Planning, Equipment Maintenance, Workshop Management and more</td> <td>Procedures, functions, triggers, cursors and query optimization for high-volume reports</td> <td>KRA TIMS, KRA PIN and Invoice Checker, M-Pesa, WhatsApp and Telegram webhooks</td> <td>Rich APEX interfaces with JavaScript, jQuery, Ajax, HTML5 and CSS3</td> </tr> </table> <!-- ============ 6. CURRENTLY EXPLORING ============ --> <h2 align="center">🔬 Currently Exploring</h2> <p align="center"> <img src="https://img.shields.io/badge/✔_Performance_Tuning-0A1440?style=for-the-badge&labelColor=0A1440&color=22D3EE" alt="Performance Tuning" /> <img src="https://img.shields.io/badge/✔_WebAuthn_%2F_Biometric_Login-0A1440?style=for-the-badge&labelColor=0A1440&color=8B5CF6" alt="WebAuthn" /> <img src="https://img.shields.io/badge/✔_AI--Assisted_Workflows-0A1440?style=for-the-badge&labelColor=0A1440&color=3B82F6" alt="AI-Assisted Workflows" /> </p> <!-- ============ 7. CONNECT ============ --> <h2 align="center">🤝 Let's Connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/saurabh-singh-82782023b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:saurabh.data.91@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://saurabhsinghportfolios.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a> <a href="https://github.com/tech-saurabh-91" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <!-- ============ 8. FOOTER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8b5cf6,100:040916&section=footer" width="100%" alt="footer" /> </p>
