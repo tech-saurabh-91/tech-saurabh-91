@@ -1,14 +1,199 @@
-<!-- HOW TO EDIT (sab kuch text hai, koi image file nahi): 1. Banner -> top ke URL me text=Saurabh%20Singh aur desc=... badlo (%20 = space) 2. Typing line -> lines=... me ; se alag karke apni lines likho (+ = space) 3. Skills -> kisi badge ka naam badlo ya poori line delete/copy karo 4. Colors -> hex code (jaise 22d3ee, 8b5cf6, C74634) badlo --> <!-- ============ 1. BANNER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:040916,50:1e3a8a,100:8b5cf6&text=Saurabh%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Oracle%20APEX%20Developer%20%7C%20PL%2FSQL%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" width="100%" alt="Saurabh Singh - Oracle APEX Developer" /> </p> <!-- ============ 2. TYPING LINE ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh;Building+scalable%2C+data-driven+business+applications;ERP+Modules+%7C+KRA+TIMS+%7C+M-Pesa+%7C+REST+APIs;Oracle+APEX+Cloud+Developer+Professional;Based+in+Nairobi%2C+Kenya" alt="Typing intro" /> </p> <!-- ============ 3. TOP BADGES ============ --> <p align="center"> <img src="https://img.shields.io/badge/Oracle_APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" /> <img src="https://img.shields.io/badge/Oracle_Database-0A1440?style=for-the-badge&logo=oracle&logoColor=22D3EE" alt="Oracle Database" /> <img src="https://img.shields.io/badge/PL%2FSQL-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" /> <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Certified-Oracle_APEX_Cloud_Developer_Professional-22D3EE?style=for-the-badge&labelColor=0A1440&logo=oracle&logoColor=white" alt="Certified Oracle APEX Cloud Developer Professional" /> </p> <br/> <!-- ============ 4. ABOUT + TECH STACK (2 columns) ============ --> <table align="center" width="100%"> <tr> <td width="50%" valign="top">
-👤 About Me
-🧠 Oracle APEX developer from India, based in Nairobi, Kenya
-🏗️ I build enterprise ERP systems on Oracle Database
-🔁 I own modules end-to-end: requirements, data model, PL/SQL logic, UI and go-live
-💼 Software Specialist at Eastern Software Systems Africa Ltd.
-🏅 Certified Oracle APEX Cloud Developer Professional
-🎤 Fun fact: I can sing really well
-</td> <td width="50%" valign="top">
-🛠️ Tech Stack
+ 
+<!-- ====================================================== -->
+<!-- SAURABH SINGH | FUTURISTIC DEVELOPER PROFILE -->
+<!-- ====================================================== -->
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020817,50:071B3A,100:142D65&height=190&section=header&text=SAURABH%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=ORACLE%20APEX%20DEVELOPER%20%7C%20PL%2FSQL%20ENGINEER&descSize=17&descAlignY=65&animation=fadeIn" width="100%" alt="Saurabh Singh Developer Banner"/>
+</p>
 
-</td> </tr> </table> <!-- ============ 5. WHAT I BUILD ============ --> <h2 align="center">🚀 What I Build</h2> <table align="center" width="100%"> <tr align="center"> <td width="25%"><h3>🧩<br/>ERP Modules</h3></td> <td width="25%"><h3>🗄️<br/>Database &amp; PL/SQL</h3></td> <td width="25%"><h3>🔌<br/>API Integrations</h3></td> <td width="25%"><h3>🎨<br/>UI / UX</h3></td> </tr> <tr align="center" valign="top"> <td>Production Planning, Equipment Maintenance, Workshop Management and more</td> <td>Procedures, functions, triggers, cursors and query optimization for high-volume reports</td> <td>KRA TIMS, KRA PIN and Invoice Checker, M-Pesa, WhatsApp and Telegram webhooks</td> <td>Rich APEX interfaces with JavaScript, jQuery, Ajax, HTML5 and CSS3</td> </tr> </table> <!-- ============ 6. CURRENTLY EXPLORING ============ --> <h2 align="center">🔬 Currently Exploring</h2> <p align="center"> <img src="https://img.shields.io/badge/✔_Performance_Tuning-0A1440?style=for-the-badge&labelColor=0A1440&color=22D3EE" alt="Performance Tuning" /> <img src="https://img.shields.io/badge/✔_WebAuthn_%2F_Biometric_Login-0A1440?style=for-the-badge&labelColor=0A1440&color=8B5CF6" alt="WebAuthn" /> <img src="https://img.shields.io/badge/✔_AI--Assisted_Workflows-0A1440?style=for-the-badge&labelColor=0A1440&color=3B82F6" alt="AI-Assisted Workflows" /> </p> <!-- ============ 7. CONNECT ============ --> <h2 align="center">🤝 Let's Connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/saurabh-singh-82782023b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:saurabh.data.91@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://saurabhsinghportfolios.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a> <a href="https://github.com/tech-saurabh-91" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <!-- ============ 8. FOOTER ============ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8b5cf6,100:040916&section=footer" width="100%" alt="footer" /> </p>
+<!-- TYPING INTRO -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Smart+Business+Applications;Oracle+APEX+%26+PL%2FSQL+Developer;Database+Development+%7C+REST+API+Integrations;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG"/>
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tech-saurabh-91&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<!-- 3D DEVELOPER VISUAL -->
+<p align="center">
+  <!-- Add your 3D Oracle APEX illustration at assets/oracle-apex-3d.png -->
+  <img src="./assets/oracle-apex-3d.png" width="85%" alt="3D Oracle APEX Developer Illustration"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ORACLE%20APEX-Developer-00D9FF?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-Engineer-8250DF?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-0078D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">⚡ ABOUT ME</h2>
+
+<table>
+<tr>
+<td width="65%" valign="middle">
+
+### Hi, I'm Saurabh Singh 👋
+
+I'm an **Oracle APEX Developer from India** passionate about building modern, data-driven business applications using Oracle technologies.
+
+I enjoy transforming complex business requirements into scalable, secure and user-friendly digital solutions.
+
+- 🔭 Building applications using **Oracle APEX & PL/SQL**
+- 💼 Software Specialist at **Eastern Software Systems Africa Ltd.**
+- 🗄️ Experienced in Oracle Database development
+- 🔗 Working with REST APIs and ORDS integrations
+- 🚀 Exploring performance optimization and modern application architecture
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=oracle,js,html,css,git,github&theme=dark" width="100%" alt="Developer tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LOW%20CODE-Development-00D9FF?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/DATABASE-Engineering-8250DF?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ TECHNOLOGIES & TOOLS</h2>
+
+<h3 align="center">Core Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Database-312D2A?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+<h3 align="center">Frontend & Integration</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORDS-REST%20APIs-00C7B7?style=for-the-badge"/>
+</p>
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-8250DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+---
+
+<!-- WHAT I BUILD -->
+<h2 align="center">🚀 WHAT I BUILD</h2>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ⚡ APEX APPLICATIONS
+
+Interactive Reports, Interactive Grids, Forms, Dashboards and Charts.
+
+</td>
+<td width="50%" align="center">
+
+### 🗄️ DATABASE DEVELOPMENT
+
+PL/SQL Packages, Procedures, Functions, Triggers, Views and Query Optimization.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔗 API INTEGRATIONS
+
+REST APIs, ORDS Services, Web Services and JSON Processing.
+
+</td>
+<td width="50%" align="center">
+
+### 🎨 UI / UX DEVELOPMENT
+
+Universal Theme, Theme Roller, Custom CSS and JavaScript.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CURRENTLY LEARNING -->
+<h2 align="center">💡 CURRENTLY EXPLORING</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-APEX%20Best%20Practices-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/02-REST%20API%20Integrations-8250DF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/03-Database%20Performance-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/04-Automation-00C7B7?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- GITHUB STATISTICS -->
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tech-saurabh-91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=00D9FF&icon_color=8250DF&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-saurabh-91&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-saurabh-91&theme=tokyonight&hide_border=true&background=020817&ring=00D9FF&fire=8250DF&currStreakLabel=00D9FF" width="75%" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<p align="center">
+  I'm always interested in connecting with developers, technology enthusiasts and professionals.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saurabh-singh-82782023b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saurabh.data.91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/tech-saurabh-91">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/__thakursaurabh/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:142D65,50:071B3A,100:020817&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
+
+<p align="center">
+  <b>Building • Learning • Innovating</b>
+  <br/>
+  <sub>Designed with passion by Saurabh Singh | Oracle APEX Developer</sub>
+</p>
